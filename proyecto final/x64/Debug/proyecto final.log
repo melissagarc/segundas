@@ -1,0 +1,8 @@
+﻿  proyecto final.cpp
+C:\Users\I\Downloads\proyecto final\proyecto final.cpp(45,6): warning C4101: 'i': variable local sin referencia
+C:\Users\I\Downloads\proyecto final\proyecto final.cpp(44,6): warning C4101: 'j': variable local sin referencia
+C:\Users\I\Downloads\proyecto final\proyecto final.cpp(135,6): warning C4101: 'j': variable local sin referencia
+C:\Users\I\Downloads\proyecto final\proyecto final.cpp(210,11): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'int'
+C:\Users\I\Downloads\proyecto final\proyecto final.cpp(210,11): warning C4313: 'printf': '%s' en la cadena de formato entra en conflicto con el argumento 1 de tipo 'int'
+C:\Users\I\Downloads\proyecto final\proyecto final.cpp(211,11): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'double'
+  proyecto final.vcxproj -> C:\Users\I\Downloads\proyecto final\x64\Debug\proyecto final.exe

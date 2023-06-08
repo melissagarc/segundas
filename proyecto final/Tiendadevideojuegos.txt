@@ -1,0 +1,2 @@
+Numarticulo	Nombre	Descripcion	Clasificacion	Genero	Consola	Añodelanzamiento	Preciounitario
+	1	fer	fer	fer	fer	nando	12		12.00
